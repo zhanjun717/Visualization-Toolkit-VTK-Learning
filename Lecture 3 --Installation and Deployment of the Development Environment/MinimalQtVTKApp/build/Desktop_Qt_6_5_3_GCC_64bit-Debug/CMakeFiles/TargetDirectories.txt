@@ -1,0 +1,10 @@
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/MinimalQtVTKApp.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/MinimalQtVTKApp_qmlimportscan.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/MinimalQtVTKApp_autogen_timestamp_deps.dir
+/home/zhanjun/PRender/MinimalQtVTKApp/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/MinimalQtVTKApp_autogen.dir
